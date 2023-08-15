@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\bin\Debug\MakroHesaplama.exe.config
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\bin\Debug\MakroHesaplama.exe
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\bin\Debug\MakroHesaplama.pdb
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\obj\Debug\MakroHesaplama.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\obj\Debug\MakroHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\obj\Debug\MakroHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\obj\Debug\MakroHesaplama.exe
+C:\Users\ASUS\Desktop\RıdvanSağlam\C#\MakroHesaplama\MakroHesaplama\obj\Debug\MakroHesaplama.pdb
